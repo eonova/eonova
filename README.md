@@ -26,6 +26,9 @@
 <b>Gender:</b> Male🧑
 </li>
 <li>
+<b>Mbti:</b> ENFP
+</li>
+<li>
 <b>Blog:</b> https://eonova.me
 </li>
 <li>
