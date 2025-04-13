@@ -1,10 +1,10 @@
 <h3 style="margin-bottom: -30px;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  Hi there! I'm LeoStar~ 
+  Hi there! I'm Eonova~ 
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
-  <a href="https://github.com/ileostar">
+  <a href="https://github.com/eonova">
     <div align="right">
-      <img align="right" src="https://count.getloli.com/get/@:ileostar?theme=rule30" alt="LeoStar"  style="margin-top: 60px;"/>
+      <img align="right" src="https://count.getloli.com/get/@:eonova?theme=rule30" alt="Eonova"  style="margin-top: 60px;"/>
     </div>
   </a>
 </h3>
@@ -20,7 +20,7 @@
   </a>
 </div>
 <li>
- <b>Name:</b> LeoStar
+ <b>Name:</b> Eonova
 </li>
 <li>
 <b>Gender:</b> Male🧑
@@ -44,19 +44,19 @@
   
 
 <div align="center">
-  <a href="https://github.com/ileostar">
-    <img src="https://github-immortality.vercel.app/api?username=ileostar">
+  <a href="https://github.com/eonova">
+    <img src="https://github-immortality.vercel.app/api?username=eonova">
   </a>
-  <a href="https://github.com/ileostar">
+  <a href="https://github.com/eonova">
     <img height="50%" width="40%" src="https://img.leostar.top/blog/20250227032952258.png">
   </a>
 </div>
 
 <!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileostar&langs_count=3&line_height=35)
-![LeoStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ileostar&show_icons=true&theme=cobalt&hide=issues&line_height=32&card_width=400px)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ileostar&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&line_height=35&card_width=360)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ileostar&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=360)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eonova&langs_count=3&line_height=35)
+![LeoStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eonova&show_icons=true&theme=cobalt&hide=issues&line_height=32&card_width=400px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eonova&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&line_height=35&card_width=360)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eonova&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=360)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=tinygeeker&theme=github)
 ![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinygeeker&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
@@ -110,7 +110,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/ileostar/ileostar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eonova/eonova/output/snake.svg" alt="Snake animation" />
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
