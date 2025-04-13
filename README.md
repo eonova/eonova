@@ -26,10 +26,7 @@
 <b>Gender:</b> Male🧑
 </li>
 <li>
-<b>Home page:</b> https://leostar.top
-</li>
-<li>
-<b>Blog:</b> https://blog.leostar.top
+<b>Blog:</b> https://eonova.me
 </li>
 <li>
 <b>Hobbys:</b> music🎵,guitar🎸,badminton🏸,code⛏
