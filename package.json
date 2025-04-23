@@ -1,0 +1,22 @@
+{
+  "name": "eonova",
+  "version": "0.0.0",
+  "description": "Hi, I am Anthony Fu",
+  "bugs": "https://github.com/eonova/eonova",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eonova/eonova"
+  },
+  "license": "MIT",
+  "author": "Nova Eon <hi@eonova.me>",
+  "main": "index.js",
+  "bin": {
+    "eonova": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
