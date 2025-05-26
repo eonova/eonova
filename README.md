@@ -48,7 +48,7 @@
     <img src="https://github-immortality.vercel.app/api?username=eonova">
   </a>
   <a href="https://github.com/eonova">
-    <img height="50%" width="40%" src="https://img.leostar.top/blog/20250227032952258.png">
+    <img height="30%" width="20%" src="https://cdn.jsdelivr.net/gh/eonova/picx-images-hosting@master/61767c6d02bcf1635155053893.32i760kgni.webp">
   </a>
 </div>
 
