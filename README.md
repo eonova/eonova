@@ -43,7 +43,7 @@
 ##### GitHub status
   
 
-<div align="center">
+<div>
   <a href="https://github.com/eonova">
     <img src="https://github-immortality.vercel.app/api?username=eonova">
   </a>
