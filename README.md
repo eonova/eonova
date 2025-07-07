@@ -1,6 +1,6 @@
-<h3 style="margin-bottom: -30px;">
+<h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  Hi there! I'm Eonova~ 
+  Hi there!&nbsp;&nbsp;I'm Eonova~ 
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
   <a href="https://github.com/eonova">
     <div align="right">
@@ -14,31 +14,27 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 ##### About Me
 
-<div align="center" style="margin-top: -50px;">
-  <a href="https://leostar.top/" align="right" >
-    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="330.5px" height="205.5px" style="margin-left: 10px;">
-  </a>
-</div>
-<li>
- <b>Name:</b> Eonova
-</li>
-<li>
-<b>Gender:</b> Male🧑
-</li>
-<li>
-<b>Mbti:</b> ENFP
-</li>
-<li>
-<b>Blog:</b> https://eonova.me
-</li>
-<li>
-<b>Hobbys:</b> music🎵,guitar🎸,badminton🏸,code⛏
-</li>
-<li>
-<b>Motto:</b> Throw away all the past and fetters, and don't bestingy with the tears <br/> shed for your dreams.
-</li>
-</div>
-<div>
+```bash
+$ cat /etc/passwd | grep eonova
+> A creative developer who is passionate about open source and building beautiful things.
+> Digital Nomad. Aspiring to be a design engineer.
+
+$ neofetch
+
+eonova@github
+───────────
+OS: macOS, Arch, Ubuntu 
+Bio: Creative Dev, Open Source Enthusiast                 ／＞　 フ
+Hobbys: music, guitar, badminton, Photography, code      | 　_　_|
+Mbti: enfp                                              ／` ミ＿xノ
+Skills:                                                ／　　　　 |
+  ├─ Langs: TypeScript, Swift                          (　 ヽ＿ヽ_)__)
+  ├─ Frontend: Vue, React, Next.js                     ＼二 )
+  ├─ Backend: NestJS, Node.js, Drizzle-ORM
+  ├─ Infra: Docker, Redis, PostgreSQL, MySQL
+  └─ Tools: VSCode, Cursor
+```
+
 
 <!--
 ##### GitHub status
@@ -71,6 +67,7 @@
 
 ### 🛠 Focus on the technology stack
 
+<!--
 <div align="center">
   <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css"></code>&nbsp;
@@ -110,7 +107,7 @@
 <code><img height="40" src="https://api.iconify.design/skill-icons:docker.svg"></code>&nbsp;
 
 </div>
-
+-->
 <img src="https://raw.githubusercontent.com/eonova/eonova/output/snake.svg" alt="Snake animation" />
 
 <!-- markdownlint-restore -->
