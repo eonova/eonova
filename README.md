@@ -28,7 +28,7 @@ Bio: Creative Dev, Open Source Enthusiast                 ／＞　 フ
 Hobbys: music, guitar, badminton, Photography, code      | 　_　_|
 Mbti: enfp                                              ／` ミ＿xノ
 Skills:                                                ／　　　　 |
-  ├─ Langs: TypeScript, Swift                          (　 ヽ＿ヽ_)__)
+  ├─ Langs: TypeScript                                 (　 ヽ＿ヽ_)__)
   ├─ Frontend: Vue, React, Next.js                     ＼二 )
   ├─ Backend: NestJS, Node.js, Drizzle-ORM
   ├─ Infra: Docker, Redis, PostgreSQL, MySQL
