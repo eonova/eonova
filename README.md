@@ -17,7 +17,6 @@
 ```bash
 $ cat /etc/passwd | grep eonova
 > A creative developer who is passionate about open source and building beautiful things.
-> Digital Nomad. Aspiring to be a design engineer.
 
 $ neofetch
 
