@@ -34,6 +34,9 @@ Skills:                                                ／　　　　 |
   ├─ Infra: Docker, Redis, PostgreSQL, MySQL
   └─ Tools: VSCode, Cursor
 ```
+<p align="center">
+  「<strong><samp> <strong>お可愛いこと。</strong> </samp></strong>」
+</p>
 
 
 <!--
@@ -61,11 +64,9 @@ Skills:                                                ／　　　　 |
 <!-- ======================================= -->
 
 
-### 🎯 Progress
+#### Progress
 
 ![](./machine.gif)
-
-### 🛠 Focus on the technology stack
 
 <!--
 <div align="center">
@@ -85,8 +86,6 @@ Skills:                                                ／　　　　 |
   <code><img height="40" src="https://api.iconify.design/skill-icons:rust.svg" alt="rust"></code>&nbsp;
   <code><img height="40" src="https://api.iconify.design/devicon:python.svg" alt="python"></code>&nbsp;
 </div>
-
-
 <div style="margin: 2px;"/>
 
 <div align="center">
