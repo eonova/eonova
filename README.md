@@ -40,6 +40,7 @@
 </div>
 <div>
 
+<!--
 ##### GitHub status
   
 
@@ -51,7 +52,7 @@
     <img height="30%" width="24%" src="https://cdn.jsdelivr.net/gh/eonova/picx-images-hosting@master/61767c6d02bcf1635155053893.32i760kgni.webp">
   </a>
 </div>
-
+ -->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eonova&langs_count=3&line_height=35)
 ![LeoStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=eonova&show_icons=true&theme=cobalt&hide=issues&line_height=32&card_width=400px)
